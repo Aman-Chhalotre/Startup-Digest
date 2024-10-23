@@ -10,7 +10,7 @@ export default function Home(){
                         <Image src={homeimage} className="h-[50%] object-cover"/>
                         <div className="text-white ps-[5%]">
                             <div className="">
-                                <h1 className="text-[52px] font-bold leading-[65px]">The Tech Trends Driving Major Transformations in</h1>
+                                <h1 className="text-[52px] font-bold leading-[65px]">The Tech Trends Transformations in</h1>
                             </div>
                         </div>
                     </div>
